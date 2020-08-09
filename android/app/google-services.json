@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "677326358454",
+    "firebase_url": "https://deneme-513fa.firebaseio.com",
+    "project_id": "deneme-513fa",
+    "storage_bucket": "deneme-513fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677326358454:android:1bcf4a3ff25a04b117e317",
+        "android_client_info": {
+          "package_name": "com.blackhole.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677326358454-n8ov5nu8edndp0ncsbpn53dq773ej90r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATsrvq_R2d0htIH1lPT16yFYjfWLexIZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677326358454-n8ov5nu8edndp0ncsbpn53dq773ej90r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677326358454:android:6e133dc2f8b26a6017e317",
+        "android_client_info": {
+          "package_name": "com.ishak.test_ntf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677326358454-n8ov5nu8edndp0ncsbpn53dq773ej90r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATsrvq_R2d0htIH1lPT16yFYjfWLexIZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677326358454-n8ov5nu8edndp0ncsbpn53dq773ej90r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677326358454:android:ab30ae6f300fdb8617e317",
+        "android_client_info": {
+          "package_name": "com.saykosoft.kpss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677326358454-n8ov5nu8edndp0ncsbpn53dq773ej90r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATsrvq_R2d0htIH1lPT16yFYjfWLexIZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677326358454-n8ov5nu8edndp0ncsbpn53dq773ej90r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
